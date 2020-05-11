@@ -15,6 +15,8 @@
  - IBM Speech to Text
  - Snowboy Hotword Detection (works offline)
  
+> This particular application requires stable internet connection, as it uses Google Speech Recognition for its transcription.
+ 
  **NOTE:** The user must use his/her earphone or microphones for giving input to the application, as the speech will be detected through microphones.
  
  > Download the first built and get started **[Click Here]**
