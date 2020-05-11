@@ -20,7 +20,7 @@
 ## Steps to use
 
 > **Step 1:** Click on start speaking, place the mic appropriately so that the application will be able to read inputs 
-  **Step 2:** Start speaking, once ypu start you will not be able to see any text, but as you complete speaking it displays the transcript in the box.
+> **Step 2:** Start speaking, once ypu start you will not be able to see any text, but as you complete speaking it displays the transcript in the box.
   - while speaking if you speak **new line**, then the the transcript will be generated in a new line.
  
  **NOTE:** The user must use his/her earphone or microphones for giving input to the application, as the speech will be detected through microphones.
